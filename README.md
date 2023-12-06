@@ -57,5 +57,5 @@ O painel LCD 16x2 se destaca como um elemento que proporciona uma interface visu
 No projeto em questão, a informação que será exibida na tela lcd serão os valores de humidade e temperatura captados pelo sensor DHT11. Segue vídeo de demonstração:
 [Vídeo](https://drive.google.com/file/d/1KQMjkccVq3FWQfOO4QVEAesZUEnKkuIP/view?usp=sharing).
 
-Como objeto de inspiração e para maior entendimento do hardware utilizado, foi desenvolvido um projeto no Wokiwe:
+Como objeto de inspiração e para maior entendimento do hardware utilizado, foi desenvolvido um projeto no Wokiwi:
 [Vídeo](https://wokwi.com/projects/379310165832565761).
