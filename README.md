@@ -1,1 +1,1 @@
-# Comunica-o-I2C
+# Comunicação I2C
