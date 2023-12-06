@@ -58,4 +58,4 @@ No projeto em questão, a informação que será exibida na tela lcd serão os v
 [Vídeo](https://drive.google.com/file/d/1KQMjkccVq3FWQfOO4QVEAesZUEnKkuIP/view?usp=sharing).
 
 Como objeto de inspiração e para maior entendimento do hardware utilizado, foi desenvolvido um projeto no Wokiwi:
-[Vídeo](https://wokwi.com/projects/379310165832565761).
+[Projeto](https://wokwi.com/projects/379310165832565761).
